@@ -1,0 +1,11 @@
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.csproj.AssemblyReference.cache
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\bin\Debug\OOP_Kursach_Museum.exe.config
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\bin\Debug\OOP_Kursach_Museum.exe
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\bin\Debug\OOP_Kursach_Museum.pdb
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.Info.resources
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.Main.resources
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.Properties.Resources.resources
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.csproj.GenerateResource.cache
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.csproj.CoreCompileInputs.cache
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.exe
+D:\OOP_Kursach_Museum-master\OOP_Kursach_Museum\obj\Debug\OOP_Kursach_Museum.pdb
